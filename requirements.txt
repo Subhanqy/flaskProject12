@@ -1,0 +1,14 @@
+Flask~=2.2.2
+flask_sqlalchemy
+flask_login
+flask_wtf
+email_validator
+python-dotenv
+bcrypt~=4.0.1
+cryptography~=38.0.4
+pyotp==2.8.0
+functools
+flask_talisman
+WTForms~=3.0.1
+MarkupSafe~=2.1.1
+csp
